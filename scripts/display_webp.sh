@@ -7,4 +7,4 @@ GIF_FILE="/home/pi/rpi-webp-project/webp_files/animation.gif"
 mpv --fs --loop=inf $GIF_FILE &
 
 # Play the audio file
-python3 /home/pi/rpi-webp-project/scripts/play_audio.py &
+# python3 /home/pi/rpi-webp-project/scripts/play_audio.py &
