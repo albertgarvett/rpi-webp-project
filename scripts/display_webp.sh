@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Path to the .webp file
-WEBP_FILE="/home/pi/rpi-webp-project/webp_files/animation.webp"
+# Path to the .gif file
+GIF_FILE="/home/pi/rpi-webp-project/webp_files/animation.gif"
 
-# Display the .webp file in full screen and loop it indefinitely
-mpv --fs --loop=inf $WEBP_FILE
+# Display the .gif file in full screen and loop it indefinitely
+mpv --fs --loop=inf $GIF_FILE
